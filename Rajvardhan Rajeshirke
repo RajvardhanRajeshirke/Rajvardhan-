@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr. Rajvardhan Rajeshirke</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mr. Rajvardhan Rajeshirke</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                Hello! I am Mr. Rajvardhan Rajeshirke. [Include a brief bio here. Describe your background, professional experience, and any other relevant information that you would like visitors to know about you.]
+            </p>
+        </section>
+        <section>
+            <h2>Portfolio</h2>
+            <p>
+                [Describe your portfolio here. Mention any significant projects, achievements, or work that showcases your skills and expertise.]
+            </p>
+        </section>
+        <section>
+            <h2>Contact Information</h2>
+            <p>
+                Email: [your.email@example.com]<br>
+                Phone: [Your Phone Number]<br>
+                Address: [Your Address, City, Country]
+            </p>
+        </section>
+        <section>
+            <h2>Social Media</h2>
+            <p>
+                LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">yourprofile</a><br>
+                Twitter: <a href="https://twitter.com/yourprofile" target="_blank">@yourprofile</a><br>
+                [Include other social media links if applicable]
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Rajvardhan Rajeshirke. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+                 
